@@ -1,0 +1,69 @@
+/* 
+body{
+	background-color: yellow;
+}
+	h2{
+	text-decoration: underline
+}
+	h3{
+
+	color: #FF7A59;	
+	}
+p {
+
+	color: #FF7A59;	
+}
+p { font-size: 20px; 
+}
+a { color: #FF0000; } /* CSS link color */
+/* ol	.favlist{
+		font-style: "Lucida Console", "Courier New", monospace;
+	}
+	#favquote{
+		color:green;
+	}
+	#HSTQuotes{
+		color:white;
+	}
+	#div1{
+		background-color: red;
+	}
+	#div2{
+		background-color: yellow;
+	}
+	#div3{
+		background-color: blue;
+	}
+	#div4{
+		background: green;
+	}
+
+	#div1, #div2, #div3, #div4 {
+		border: dashed;
+	}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+nav {
+  position: relative;
+  left: 200px;
+  width: 200px;
+} 
+  	#div4 {
+  width: 500px;
+  margin: 20px auto;
+  padding: 50px; 	
+	} */
+
+	body{
+		background-color: yellow;
+	}
